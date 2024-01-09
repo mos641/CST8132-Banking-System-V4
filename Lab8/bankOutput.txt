@@ -1,0 +1,4 @@
+C | AccountNumber: 12345678 | Name: John Smith | Phone Number: 6131231234 | Email Address: johnsmith@cst8132.com | Balance: 98.5 | Fee: 2.0
+S | AccountNumber: 12354678 | Name: Joe Blow | Phone Number: 6135551234 | Email Address: joeblow@cst8132.com | Balance: 152.73 | Minimum Balance: 50.0 | Interest Rate: 0.2
+C | AccountNumber: 12355678 | Name: Jane Doe | Phone Number: 6139876543 | Email Address: janedoe@cst8132.com | Balance: 498.76 | Fee: 2.0
+S | AccountNumber: 12388678 | Name: Sally Smith | Phone Number: 6138765433 | Email Address: sally.smith@cst8132.com | Balance: 100.33 | Minimum Balance: 10.0 | Interest Rate: 0.04
